@@ -1,0 +1,20 @@
+# IDE files to be ignored
+# Eclipse
+.project
+.buildpath
+.settings/
+.classpath
+.metadata/
+bin/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+target/
+log/
+
+# OS files
+.DS_Store
+Thumbs.db
